@@ -1,3 +1,2 @@
-#Passo 1
-print('Oi, tudo bem?')
-print('Teresina está muito quente!')
+print(12*12.50)
+
